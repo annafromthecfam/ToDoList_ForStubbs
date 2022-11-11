@@ -1,0 +1,15 @@
+C:\Users\anna\OneDrive\Repos\Labs\ToDoList_ForStubbs\bin\Debug\net6.0\ToDoList_ForStubbs.exe
+C:\Users\anna\OneDrive\Repos\Labs\ToDoList_ForStubbs\bin\Debug\net6.0\ToDoList_ForStubbs.deps.json
+C:\Users\anna\OneDrive\Repos\Labs\ToDoList_ForStubbs\bin\Debug\net6.0\ToDoList_ForStubbs.runtimeconfig.json
+C:\Users\anna\OneDrive\Repos\Labs\ToDoList_ForStubbs\bin\Debug\net6.0\ToDoList_ForStubbs.dll
+C:\Users\anna\OneDrive\Repos\Labs\ToDoList_ForStubbs\bin\Debug\net6.0\ToDoList_ForStubbs.pdb
+C:\Users\anna\OneDrive\Repos\Labs\ToDoList_ForStubbs\obj\Debug\net6.0\ToDoList_ForStubbs.csproj.AssemblyReference.cache
+C:\Users\anna\OneDrive\Repos\Labs\ToDoList_ForStubbs\obj\Debug\net6.0\ToDoList_ForStubbs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anna\OneDrive\Repos\Labs\ToDoList_ForStubbs\obj\Debug\net6.0\ToDoList_ForStubbs.AssemblyInfoInputs.cache
+C:\Users\anna\OneDrive\Repos\Labs\ToDoList_ForStubbs\obj\Debug\net6.0\ToDoList_ForStubbs.AssemblyInfo.cs
+C:\Users\anna\OneDrive\Repos\Labs\ToDoList_ForStubbs\obj\Debug\net6.0\ToDoList_ForStubbs.csproj.CoreCompileInputs.cache
+C:\Users\anna\OneDrive\Repos\Labs\ToDoList_ForStubbs\obj\Debug\net6.0\ToDoList_ForStubbs.dll
+C:\Users\anna\OneDrive\Repos\Labs\ToDoList_ForStubbs\obj\Debug\net6.0\refint\ToDoList_ForStubbs.dll
+C:\Users\anna\OneDrive\Repos\Labs\ToDoList_ForStubbs\obj\Debug\net6.0\ToDoList_ForStubbs.pdb
+C:\Users\anna\OneDrive\Repos\Labs\ToDoList_ForStubbs\obj\Debug\net6.0\ToDoList_ForStubbs.genruntimeconfig.cache
+C:\Users\anna\OneDrive\Repos\Labs\ToDoList_ForStubbs\obj\Debug\net6.0\ref\ToDoList_ForStubbs.dll
